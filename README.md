@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manoj Kumar
-- 👀 I’m interested in computer field
+- 👀 I’m interested in teaching and problem solving
 - 🌱 I’m currently learning DSA using JAVA
 - 📫 How to reach me = Linkedin
 
