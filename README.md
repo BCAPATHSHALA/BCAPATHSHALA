@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm MANOJ KUMAR</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
+![This is an image](https://www.synergisticit.com/wp-content/uploads/2021/08/Phoenix-Banner-Image.jpg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bcapathshala&label=Profile%20views&color=0e75b6&style=flat" alt="bcapathshala" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack Development**
