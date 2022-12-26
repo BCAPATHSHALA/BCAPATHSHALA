@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MANOJ KUMAR</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-![This is an image](https://raw.githubusercontent.com/BCAPATHSHALA/BCAPATHSHALA/main/mern.jpeg)
+![This is an image](https://github.com/BCAPATHSHALA/BCAPATHSHALA/blob/main/MERN.png?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bcapathshala&label=Profile%20views&color=0e75b6&style=flat" alt="bcapathshala" /> </p>
 
