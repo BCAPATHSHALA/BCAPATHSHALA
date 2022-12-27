@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manoj-kumar-798508218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj-kumar-798508218" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/manojkumargfg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/manojkumargfg/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/manojkumargfg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/manojkumargfg/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/bcapathshala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bcapathshala" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manojkumar7867" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manojkumar7867" height="30" width="40" /></a>
 <a href="https://discord.gg/manojbhaiya#9979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="manojbhaiya#9979" height="30" width="40" /></a>
