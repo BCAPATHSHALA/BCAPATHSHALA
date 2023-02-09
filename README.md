@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/manojoffcialmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manojoffcialmj" height="30" width="40" /></a>
 <a href="https://instagram.com/manojofficialmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manojofficialmj" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/bcapathshala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bcapathshala" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/vdUYy6PTk2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/vdUYy6PTk2" height="30" width="40" /></a>
+<a href="https://discord.gg/naQUPVWvSs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/naQUPVWvSs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
