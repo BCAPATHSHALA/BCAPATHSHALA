@@ -4,10 +4,8 @@
 ![image](https://github.com/BCAPATHSHALA/BCAPATHSHALA/blob/main/MERN.png?raw=true)
 
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently exploring **MERN Stack Development**
 
-- 💬 Ask me about **DSA, JAVA and C++**
+- 💬 Ask me about **Java & MERN Stack**
 
-- 📫 How to reach me **bcapathshala72@gmail.com**
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bcapathshala&show_icons=true&locale=en&layout=compact" alt="bcapathshala" /></p>
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/manojoffcialmj/)**
