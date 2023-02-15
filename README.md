@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m a passionate MERN stack developer from India
+- 🔭 I’m a passionate MERN stack developer
 
 - 🌱 I’m currently exploring **MERN Stack Development**
 
