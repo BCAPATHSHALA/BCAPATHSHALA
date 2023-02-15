@@ -10,4 +10,4 @@
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/manojoffcialmj/)**
 
-- 🧲 Help each other **[Discord Community](https://discord.gg/naQUPVWvSs))**
+- 🧲 Help each other **[Discord Community](https://discord.gg/naQUPVWvSs)**
