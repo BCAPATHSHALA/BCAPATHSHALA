@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MANOJ KUMAR</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-![This is an image](https://github.com/BCAPATHSHALA/BCAPATHSHALA/blob/main/MERN.png?raw=true)
+![image](https://github.com/BCAPATHSHALA/BCAPATHSHALA/blob/main/MERN.png?raw=true)
 
 
 - 🌱 I’m currently learning **MERN Stack Development**
