@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **Java & MERN Stack**
 
+- 👁️‍🗨️ Showcase **[Portfolio](https://manoj-kumar.vercel.app/)**
+
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/manojoffcialmj/)**
 
 - 🧲 Help each other **[Discord Community](https://discord.gg/naQUPVWvSs)**
