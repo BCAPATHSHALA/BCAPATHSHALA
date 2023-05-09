@@ -17,4 +17,4 @@
 
 - 🧲 Help each other **[Discord Community](https://discord.gg/naQUPVWvSs)**
 
-- 📫 DM on **[Instagram](https://www.instagram.com/manojofficialmj/)**
+- 📬 DM on **[Instagram](https://www.instagram.com/manojofficialmj/)**
