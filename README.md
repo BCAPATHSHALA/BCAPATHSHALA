@@ -20,3 +20,8 @@
 - 📬 DM on **[Instagram](https://www.instagram.com/manojofficialmj/)**
 
 - 🖥️ DM on **[Replit](https://replit.com/@BCAPATHSHALA)**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongo,firebase,sass,fastapi,cpp,java,git,github,postman">
+ </p>
