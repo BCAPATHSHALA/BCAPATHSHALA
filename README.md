@@ -23,4 +23,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongo,firebase,sass,fastapi,cpp,java,git,github,postman">
- </p>
+</p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BCAPATHSHALA&bg_color=000000&color=ffffff&line=21cac7&point=7505a8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
