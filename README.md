@@ -29,3 +29,4 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BCAPATHSHALA&theme=github-light)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BCAPATHSHALA&layout=compact&theme=blue-green)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=BCAPATHSHALA&theme=discord)
