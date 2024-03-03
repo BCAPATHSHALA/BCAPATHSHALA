@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm MANOJ KUMAR</h1>
-<!-- ![image](https://github.com/BCAPATHSHALA/BCAPATHSHALA/blob/main/MERN.png?raw=true) -->
 <!-- <h3 align="center">A passionate MERN stack developer from India</h3> -->
 
 ![](https://komarev.com/ghpvc/?username=BCAPATHSHALA&color=blueviolet&style=flat-square)
+![image](https://raw.githubusercontent.com/BCAPATHSHALA/BCAPATHSHALA/main/LINKED%20COVER%202023.png)
 
 Web Development:
 - 👨‍💻 Aspiring Software Engineer with a strong foundation in React JS.
