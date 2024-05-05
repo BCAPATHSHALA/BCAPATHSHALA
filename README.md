@@ -49,3 +49,5 @@ Networking and Learning:
 [![MANOJKUMAR's GitHub | Languages Over Time](https://stats.quine.sh/MANOJKUMAR/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MANOJKUMAR)
 
 [![MANOJKUMAR's GitHub | Dependencies](https://stats.quine.sh/MANOJKUMAR/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MANOJKUMAR)
+
+[![MANOJKUMAR's GitHub | Stats](https://stats.quine.sh/MANOJKUMAR/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MANOJKUMAR)
