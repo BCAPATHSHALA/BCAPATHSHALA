@@ -4,6 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=BCAPATHSHALA&color=blueviolet&style=flat-square)
 ![image](https://raw.githubusercontent.com/BCAPATHSHALA/BCAPATHSHALA/main/LINKED%20COVER%202023.png)
 
+
 Web Development:
 - 👨‍💻 Aspiring Software Engineer with a strong foundation in React JS.
 
@@ -43,6 +44,6 @@ Networking and Learning:
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongo,firebase,sass,fastapi,cpp,java,git,github,postman">
 </p>
 
-
-
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BCAPATHSHALA&layout=compact&theme=blue-green)
+
+[![MANOJKUMAR's GitHub | Languages Over Time](https://stats.quine.sh/MANOJKUMAR/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MANOJKUMAR)
