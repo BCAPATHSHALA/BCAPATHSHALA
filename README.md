@@ -47,3 +47,5 @@ Networking and Learning:
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BCAPATHSHALA&layout=compact&theme=blue-green)
 
 [![MANOJKUMAR's GitHub | Languages Over Time](https://stats.quine.sh/MANOJKUMAR/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MANOJKUMAR)
+
+[![MANOJKUMAR's GitHub | Dependencies](https://stats.quine.sh/MANOJKUMAR/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MANOJKUMAR)
