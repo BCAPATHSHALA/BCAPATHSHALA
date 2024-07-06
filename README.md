@@ -5,27 +5,28 @@
 ![image](https://raw.githubusercontent.com/BCAPATHSHALA/BCAPATHSHALA/main/LINKED%20COVER%202023.png)
 
 
-Web Development:
-- 👨‍💻 Aspiring Software Engineer with a strong foundation in React JS.
+### 🙋🏻‍♂️ About Me
+Hi there! I'm Manoj Kumar, a developer with a strong passion for creating robust and scalable web applications. I completed my Bachelor of Computer Applications (BCA) in 2020, and since then, I've been working on honing my skills in both frontend and backend development.
 
-- 🌐 Building web applications using HTML, CSS, and JavaScript.
+### ⚙️ What I Do:
+- 🧩 **Frontend:** I work with `HTML`, `CSS`, `SCSS`, `Tailwind CSS`, `JavaScript`, and `Typescript`. I use frameworks and libraries like `React.js`, `Chakra UI`, `Daisy UI`, `Redux Toolkit`, and `React Router DOM` to build dynamic and responsive user interfaces.
 
-- 🌱 Exploring backend development with Node.js, Express, and MongoDB.
+- 🧩 **Backend:** I specialize in `Node.js` and `Express.js` to create powerful APIs and backend services. I use tools like `Multer`, `Mailgen`, `Nodemailer`, `Winston`, `OAuth2.0`, `JWT`, and `Express Validator` to handle various backend tasks efficiently.
 
-Programming Languages:
-- 🚀 Proficient in Core Java and C++.
+- 🧩 **Database:** I am proficient with `MongoDB` for managing and scaling data effectively.
 
-- 💡 Knowledge of object-oriented programming (OOPS) principles.
+### ⚙️ Additional Skills:
+- 🏆 I have a solid understanding of **Data Structures and Algorithms**, which helps me solve complex problems efficiently.
+- 🏆 I am knowledgeable in **Low-Level Design** for optimal system performance.
+- 🏆 I am also skilled in **Java** and **C++**, which broadens my ability to work across different technologies.
 
-Data Structures and Algorithms (DSA):
-- 📚 Eager to enhance problem-solving skills through learning DSA.
+### ⚙️ Deployment:
+I have experience with deployment tools and practices such as `Git & GitHub` for version control, `Docker` for containerization, `PM2` for process management, and `NGINX` for web servers and reverse proxy. I also use `Vercel` and other cloud services like AWS, and Google Cloud for deploying applications.
 
-Collaboration and Version Control:
-- 🔗 Keen to collaborate on open-source projects.
+### 🧑🏻‍💻 Searching Job Opportunities:
+I am currently looking for opportunities as a **Software Development Engineer (SDE)**, **Backend Developer**, **Frontend Developer**, or **Full Stack Developer**. Feel free to connect with me at `manojkumargfg.1@gmail.com` or call me at `+91 9149045782`. I’m excited to explore new opportunities and collaborations.
 
-- 🛠️ Proficient in using Git and GitHub for version control.
-
-Networking and Learning:
+### Networking and Learning:
 - 🌐 Passionate about connecting with fellow tech enthusiasts.
 
 - 🤝 Let's collaborate, share knowledge, and explore the ever-evolving tech world together.
@@ -45,11 +46,3 @@ Networking and Learning:
 </p>
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BCAPATHSHALA&layout=compact&theme=blue-green)
-
-[![MANOJKUMAR's GitHub | Languages Over Time](https://stats.quine.sh/MANOJKUMAR/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MANOJKUMAR)
-
-[![MANOJKUMAR's GitHub | Topics Over Time](https://stats.quine.sh/MANOJKUMAR/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MANOJKUMAR)
-
-[![MANOJKUMAR's GitHub | Dependencies](https://stats.quine.sh/MANOJKUMAR/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MANOJKUMAR)
-
-[![MANOJKUMAR's GitHub | Stats](https://stats.quine.sh/MANOJKUMAR/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MANOJKUMAR)
