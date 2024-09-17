@@ -6,7 +6,7 @@
 
 
 <h1 align="center">🙋🏻‍♂️ About Me 👋</h1>
-Hi there! I'm Manoj Kumar, a developer with a strong passion for creating robust and scalable web applications. I completed my Bachelor of Computer Applications (BCA) in 2020, and since then, I've been working on honing my skills in both frontend and backend development.
+Hi, I'm Manoj Kumar. I'm a Full Stack MERN Developer with a degree in Computer Applications. I'm currently working on a project called Quality Keeper, which is a SaaS application. I'm also building other SaaS projects that will help students, teachers, and businesses work more efficiently and easily.
 
 <h2 align="center">😎 My Skills 😎</h2>
 <p align="center">
