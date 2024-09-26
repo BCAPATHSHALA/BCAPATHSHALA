@@ -10,7 +10,7 @@ Hi, I'm Manoj Kumar. I'm a Full Stack MERN Developer with a degree in Computer A
 
 <h2 align="center">😎 My Skills 😎</h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwindcss,materialui,javascript,ts,react,redux,nodejs,express,nextjs,mongo,mysql,supabase,firebase,prisma,postgres,fastapi,cpp,java,git,github,postman,vscode,bash,powershell,bun,deno,elasticsearch,jest,linux,notion,npm,yarn,vite&perline=9">
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwindcss,materialui,javascript,ts,react,redux,nodejs,express,nextjs,mongo,mysql,supabase,firebase,prisma,postgres,fastapi,cpp,java,git,github,postman,vscode,bash,powershell,bun,deno,elasticsearch,jest,linux,notion,npm,yarn,astro,markdown,vite&perline=8">
 </p>
 
 <h2 align="center">😀 My Projects 😀</h2>
