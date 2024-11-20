@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A passionate MERN stack developer from India</h3> -->
 
 ![](https://komarev.com/ghpvc/?username=BCAPATHSHALA&color=blueviolet&style=flat-square)
-![image](https://raw.githubusercontent.com/BCAPATHSHALA/BCAPATHSHALA/refs/heads/main/linkedin.png)
+![image](https://raw.githubusercontent.com/BCAPATHSHALA/BCAPATHSHALA/refs/heads/main/twitter.png)
 
 
 <h1 align="center">🙋🏻‍♂️ About Me 👋</h1>
