@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm MANOJ KUMAR</h1>
-<!-- <h3 align="center">A passionate MERN stack developer from India</h3> -->
 
 ![](https://komarev.com/ghpvc/?username=BCAPATHSHALA&color=blueviolet&style=flat-square)
 ![image](https://raw.githubusercontent.com/BCAPATHSHALA/BCAPATHSHALA/refs/heads/main/twitter.png)
@@ -11,6 +10,18 @@ Hi, I'm Manoj Kumar! I'm a passionate Full Stack Developer with expertise in Rea
 As a Cohort 3.0 student, I'm dedicated to honing my skills, learning from others, and staying up-to-date with the latest industry trends. My aim is to create impactful solutions that not only meet user needs but also deliver exceptional user experiences.
 <br/><br/>
 In my free time, I love exploring new tech, sharing knowledge in IT, and working on personal projects. Let's connect!
+
+##### Connect with Me
+1. [LinkedIn](https://www.linkedin.com/in/manojoffcialmj/)
+2. [Twitter](https://twitter.com/manojofficialmj)
+3. [Instagram](https://www.instagram.com/manojofficialmj/)
+4. [Peerlist](https://peerlist.io/manojfficialmj)
+5. [Product Hunt](https://www.producthunt.com/@manojofficialmj)
+6. [BCA PathShala - YT](https://www.youtube.com/@bcapathshala)
+7. [10xTech Infinity - YT](https://www.youtube.com/@10xtechinfinity)
+8. [10xTech Infinity - Web](https://10xtechinfinity.in/)
+9. [Gumroad - Digital Product](https://manojofficialmj.gumroad.com/)
+10. [Topmate - Expert](https://topmate.io/manojofficialmj)
 
 <h2 align="center">😎 My Skills 😎</h2>
 <p align="center">
