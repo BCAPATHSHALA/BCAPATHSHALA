@@ -7,9 +7,9 @@
 
 <h1 align="center">🙋🏻‍♂️ About Me 👋</h1>
 Hi, I'm Manoj Kumar! I'm a passionate Full Stack Developer with expertise in React, Next.js, Java, Node.js, TypeScript, and a variety of back-end technologies like Express, Prisma, MongoDB, and PostgreSQL. I enjoy building scalable web applications, developing efficient systems, and continuously exploring the best practices in both data structures and algorithms (DSA) and low-level design (LLD).
-
+<br/><br/>
 As a Cohort 3.0 student, I'm dedicated to honing my skills, learning from others, and staying up-to-date with the latest industry trends. My aim is to create impactful solutions that not only meet user needs but also deliver exceptional user experiences.
-
+<br/><br/>
 In my free time, I love exploring new tech, sharing knowledge in IT, and working on personal projects. Let's connect!
 
 <h2 align="center">😎 My Skills 😎</h2>
