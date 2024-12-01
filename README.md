@@ -22,6 +22,7 @@ In my free time, I love exploring new tech, sharing knowledge in IT, and working
 8. [10xTech Infinity - Web](https://10xtechinfinity.in/)
 9. [Gumroad - Digital Product](https://manojofficialmj.gumroad.com/)
 10. [Topmate - Expert](https://topmate.io/manojofficialmj)
+11. [2nd Brain - A Note-Taking App](https://2ndbrain.vercel.app/)
 
 <h2 align="center">😎 My Skills 😎</h2>
 <p align="center">
