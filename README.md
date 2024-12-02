@@ -12,7 +12,7 @@ As a Cohort 3.0 student, I'm dedicated to honing my skills, learning from others
 In my free time, I love exploring new tech, sharing knowledge in IT, and working on personal projects. Let's connect!
 
 ##### Connect with Me
-1. [LinkedIn](https://www.linkedin.com/in/manojoffcialmj/)
+1. [LinkedIn](https://www.linkedin.com/in/manojofficialmj/)
 2. [Twitter](https://twitter.com/manojofficialmj)
 3. [Instagram](https://www.instagram.com/manojofficialmj/)
 4. [Peerlist](https://peerlist.io/manojfficialmj)
