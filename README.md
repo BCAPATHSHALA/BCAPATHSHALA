@@ -11,18 +11,7 @@ As a Cohort 3.0 student, I'm dedicated to honing my skills, learning from others
 <br/><br/>
 In my free time, I love exploring new tech, sharing knowledge in IT, and working on personal projects. Let's connect!
 
-##### Connect with Me
-1. [LinkedIn](https://www.linkedin.com/in/manojofficialmj/)
-2. [Twitter](https://twitter.com/manojofficialmj)
-3. [Instagram](https://www.instagram.com/manojofficialmj/)
-4. [Peerlist](https://peerlist.io/manojfficialmj)
-5. [Product Hunt](https://www.producthunt.com/@manojofficialmj)
-6. [BCA PathShala - YT](https://www.youtube.com/@bcapathshala)
-7. [10xTech Infinity - YT](https://www.youtube.com/@10xtechinfinity)
-8. [10xTech Infinity - Web](https://10xtechinfinity.in/)
-9. [Gumroad - Digital Product](https://manojofficialmj.gumroad.com/)
-10. [Topmate - Expert](https://topmate.io/manojofficialmj)
-11. [2nd Brain - A Note-Taking App](https://2ndbrain.vercel.app/)
+
 
 <h2 align="center">😎 My Skills 😎</h2>
 <p align="center">
