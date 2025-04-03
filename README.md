@@ -6,9 +6,9 @@
 
 <h1 align="center">🙋🏻‍♂️ About Me 👋</h1>
 Haan Ji, I am Manoj Kumar and a Software Engineer who loves building things, whether it is full-stack web applications with MERN and mobile apps with React Native. I also work as a Freelancer and enjoy diving into DevOps to make systems run smoother and faster
-
+<br> <br>
 Right now, I am part of Cohort 3.0 Student@100xDevs, where I am learning, growing, and staying on top of the latest tech trends
-
+<br> <br>
 When I am not coding, I usually explore new tools, tinkering with personal projects, or sharing what I have learned. I love to connect and collaborate on something awesome
 
 
