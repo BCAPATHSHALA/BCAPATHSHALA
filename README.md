@@ -7,8 +7,6 @@
 
 I’m Manoj Kumar, a Full Stack Web Developer with over 3 years of experience.
 
-💼 I worked full-time at **Urbantract India Pvt Ltd** as a developer, where I built web apps using **Next.js, React, Node.js, and MongoDB**.
-
 🧑‍💻 I also work as a **freelancer**, helping clients build websites, tools, and SaaS apps for their businesses.
 
 🚀 I’ve launched projects on **Product Hunt**, solved **400+ DSA problems**, and know how to use **Docker, GitHub Actions, and AWS** to deploy apps easily.
