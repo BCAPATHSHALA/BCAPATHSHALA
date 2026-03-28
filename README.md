@@ -5,17 +5,15 @@
 
 <h1 align="center">🙋🏻‍♂️ About Me 👋</h1>
 
-I’m Manoj Kumar, a Full Stack Web Developer with over 3 years of experience.
+Haan Ji, I’m Manoj Kumar, a Full Stack Generative AI & DevOps Engineer passionate about building modern web applications, SaaS tools, and AI-driven solutions. My expertise spans Node.js, Next.js, React, React Native, MongoDB, PostgreSQL, Docker, and AWS, with hands-on experience in LLMs, RAG systems, LangChain, Vector Databases, and Prompt Engineering.
 
-🧑‍💻 I also work as a **freelancer**, helping clients build websites, tools, and SaaS apps for their businesses.
+I’ve built and deployed 20+ full-stack projects, including AI-powered tools, image compressors, real-time chat apps, and admin dashboards. Some are live SaaS products, while others support client businesses such as Utopia Technology and Ariston Instruments.
 
-🚀 I’ve launched projects on **Product Hunt**, solved **400+ DSA problems**, and know how to use **Docker, GitHub Actions, and AWS** to deploy apps easily.
+Beyond full-stack development, I enjoy working on DevOps & cloud infrastructure setting up CI/CD pipelines, containerizing applications with Docker & NGINX, and deploying scalable systems on AWS. I also love sharpening my skills in backend architecture, system design, and cloud deployments.
 
-🎓 I’m currently learning more at **100xDevs Cohort 3.0**, growing my skills and building new things.
+Outside of coding, I share developer insights, explore new APIs, and tackle challenges on LeetCode (400+ problems solved) to stay sharp.
 
-I enjoy coding, exploring new tools, working on side projects, and sharing what I learn.
-
-Feel free to connect with me if you’d like to build something cool together!
+🚀 Open to opportunities in AI SaaS development, Generative AI projects, and scalable web apps. Let’s connect!
 
 ---
 
