@@ -5,11 +5,15 @@
 
 ---
 
-Haan Ji, I’m Manoj Kumar, a Full Stack Generative AI & DevOps Engineer passionate about building modern web applications, SaaS tools, and AI-driven solutions. My expertise spans Node.js, Next.js, React, React Native, MongoDB, PostgreSQL, Docker, and AWS, with hands-on experience in LLMs, RAG systems, LangChain, Vector Databases, and Prompt Engineering.
+Haan Ji, I’m Manoj Kumar, an AI Solutions Engineer at Kwartz Private Limited and a Full Stack Generative AI & DevOps Engineer passionate about building AI-driven solutions, modern web applications, and scalable SaaS tools.
 
-I’ve built and deployed 20+ full-stack projects, including AI-powered tools, image compressors, real-time chat apps, and admin dashboards. Some are live SaaS products, while others support client businesses such as Utopia Technology and Ariston Instruments.
+At Kwartz, I design and implement AI solutions covering LLM integrations, agentic workflows, MCP servers, RAG pipelines, and enterprise system integrations, working directly with clients to identify automation opportunities and own the full delivery lifecycle from scoping to deployment.
 
-Beyond full-stack development, I enjoy working on DevOps & cloud infrastructure setting up CI/CD pipelines, containerizing applications with Docker & NGINX, and deploying scalable systems on AWS. I also love sharpening my skills in backend architecture, system design, and cloud deployments.
+My technical expertise spans Node.js, Next.js, React, MongoDB, PostgreSQL, Docker, and AWS, with deep hands-on experience in LLMs, RAG systems, LangChain, Vector Databases, Prompt Engineering, and the OpenAI Agents SDK.
+
+I’ve built and deployed 20+ full-stack projects, including AI-powered tools, real-time chat apps, and admin dashboards. Some are live SaaS products, while others support client businesses such as Utopia Technology and Ariston Instruments.
+
+Beyond development, I enjoy working on DevOps and cloud infrastructure by setting up CI/CD pipelines, containerizing applications with Docker and NGINX, and deploying scalable systems on AWS.
 
 Outside of coding, I share developer insights, explore new APIs, and tackle challenges on LeetCode (400+ problems solved) to stay sharp.
 
